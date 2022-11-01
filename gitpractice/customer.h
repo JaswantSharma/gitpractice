@@ -21,4 +21,6 @@ public:
 	//this function is used to login
 	void login();
 
+	// this function used to register
+		void registerCustomer();
 };
