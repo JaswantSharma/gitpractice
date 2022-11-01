@@ -25,4 +25,7 @@ public:
 		void registerCustomer();
 	//this function will display the customer menu
 		void customerMenu();
+
+	//this function will display all the products present in the record
+		void displayItems();
 };
