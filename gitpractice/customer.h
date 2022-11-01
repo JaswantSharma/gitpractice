@@ -23,4 +23,6 @@ public:
 
 	// this function used to register
 		void registerCustomer();
+	//this function will display the customer menu
+		void customerMenu();
 };
