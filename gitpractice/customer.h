@@ -15,4 +15,10 @@ public:
 	string getvalue(char* filename, string user);
 	void setvalue(char* filename, char* tempfile, string proid, string updatevalue);
 
+	//this function will display the login menu for the customer
+	void loginMenu();
+
+	//this function is used to login
+	void login();
+
 };
